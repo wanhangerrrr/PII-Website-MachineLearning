@@ -3,14 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://wanhangerrrr.github.io/PII-Website-MachineLearning/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "typecheck": "tsc --noEmit -p tsconfig.app.json"
+    "typecheck": "tsc --noEmit -p tsconfig.app.json",
     "deploy": "gh-pages -d dist"
-    "homepage": "https://wanhangerrrr.github.io/PII-Website-MachineLearning/"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.57.4",
